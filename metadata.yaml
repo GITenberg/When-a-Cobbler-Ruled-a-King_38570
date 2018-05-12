@@ -1,0 +1,35 @@
+_repo: When-a-Cobbler-Ruled-a-King_38570
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Edwards, George Wharton
+    birthdate: 1859
+    deathdate: &id001 1950
+    gutenberg_agent_id: '3048'
+    url: http://www.gutenberg.org/2009/agents/3048
+    wikipedia: http://en.wikipedia.org/wiki/George_Wharton_Edwards
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seaman, Augusta Huiell
+    birthdate: 1879
+    deathdate: *id001
+    gutenberg_agent_id: '31568'
+    url: http://www.gutenberg.org/2009/agents/31568
+description: ''
+gutenberg_issued: '2012-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Louis XVII, of France, 1785-1795 -- Fiction'
+title: When a Cobbler Ruled the King
+url: http://www.gutenberg.org/ebooks/38570
